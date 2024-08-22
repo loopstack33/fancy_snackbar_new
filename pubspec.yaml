@@ -1,7 +1,7 @@
 name: fancy_snackbar_new
 description: "Fancy Snack Bars"
 version: 0.0.1
-homepage: https://github.com/loopstack33/fancy_snackbar_new
+homepage: https://github.com/loopstack33/fancy_snackbar_new.git
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
